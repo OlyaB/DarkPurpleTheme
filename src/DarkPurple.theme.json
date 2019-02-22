@@ -7,12 +7,12 @@
 
   "ui": {
     "*": {
-      "background": "#23212e",
+      "background": "#211f2b",
       "foreground": "#b0acbb",
 
       "infoForeground": "#615e6b",
 
-      "selectionBackground": "#3b2985",
+      "selectionBackground": "#4c2669",
       "selectionForeground": "#FFFFFF",
       "selectionInactiveBackground": "#312d40",
       "selectionBackgroundInactive": "#312d40",
@@ -34,7 +34,7 @@
       "focusColor": "#483b9c",
       "focusedBorderColor": "#6255b5",
 
-      "separatorColor": "#343142",
+      "separatorColor": "#373445",
       "lineSeparatorColor": "#6A6173"
     },
 
@@ -62,8 +62,8 @@
     },
 
     "Borders": {
-      "color": "#343142",
-      "ContrastBorderColor": "#343142"
+      "color": "#1a1721",
+      "ContrastBorderColor": "#1a1721"
     },
 
     "ComboBox": {
@@ -119,7 +119,7 @@
       "selectedBackground": "#272533",
       "underlineColor": "#6750c7",
       "inactiveMaskColor": "#0000001A",
-      "borderColor": "#343142"
+      "borderColor": "#1a1721"
     },
 
     "FileColor": {
@@ -205,13 +205,13 @@
     "Popup": {
       "paintBorder": true,
       "inactiveBorderColor": "#343142",
-      "Toolbar.borderColor": "#343142",
+      "Toolbar.borderColor": "#1a1721",
       "separatorForeground": "#FFFFFF",
       "Header.activeBackground": "#000080",
       "Header.inactiveBackground": "#000080",
       "Advertiser": {
         "background": "#000080",
-        "borderColor": "#343142",
+        "borderColor": "#1a1721",
         "borderInsets": "3,8,5,0"
       }
     },
@@ -237,7 +237,7 @@
         "selectedForeground": "#FFFFFF",
         "selectedBackground": "#3333FF"
       },
-      "SearchField.borderColor": "#343142",
+      "SearchField.borderColor": "#1a1721",
       "Advertiser": {
         "background": "#000080",
         "borderInsets": "3,8,5,0"
@@ -255,7 +255,7 @@
       "background": "#1AEBFF"
     },
 
-    "StatusBar.borderColor": "#343142",
+    "StatusBar.borderColor": "#1a1721",
 
     "TabbedPane": {
       "underlineColor": "#1AEBFF",
@@ -263,7 +263,7 @@
       "contentAreaColor": "#b3b3b3"
     },
 
-    "TableHeader.cellBorder": "8,0,8,0",
+    "TableHeader.cellBorder": "3,0,3,0",
 
     "Table": {
       "stripeColor": "#000033",
