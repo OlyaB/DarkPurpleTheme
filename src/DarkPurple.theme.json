@@ -116,9 +116,10 @@
 
     "EditorTabs": {
       "selectedForeground": "#a9b8c4",
-      "selectedBackground": "#383247",
+      "selectedBackground": "#272533",
       "underlineColor": "#6750c7",
-      "inactiveMaskColor": "#0000004D"
+      "inactiveMaskColor": "#0000001A",
+      "borderColor": "#343142"
     },
 
     "FileColor": {
@@ -320,13 +321,13 @@
     "ToolWindow": {
       "Header": {
         "background": "#3e394d",
-        "inactiveBackground": "#302c3d",
-        "borderColor": "#272334"
+        "inactiveBackground": "#23212e",
+        "borderColor": "#1a1721"
       },
 
       "HeaderTab": {
         "selectedBackground": "#0a0a0a66",
-        "selectedInactiveBackground": "#0a0a0a66",
+        "selectedInactiveBackground": "#0a0a0a4D",
         "hoverBackground": "#0a0a0a66",
         "hoverInactiveBackground": "#0a0a0a66"
       },
@@ -349,14 +350,14 @@
 
     "VersionControl": {
       "Log.Commit": {
-        "currentBranchBackground": "#0D0D40",
+        "currentBranchBackground": "#202340",
         "unmatchedForeground": "#E0861F"
       },
       "Ref": {
         "backgroundBase": "#3333FF",
         "backgroundBrightness": 0.7
       },
-      "FileHistory.Commit.selectedBranchBackground": "#0D0D40"
+      "FileHistory.Commit.selectedBranchBackground": "#202340"
     },
 
     "WelcomeScreen": {
