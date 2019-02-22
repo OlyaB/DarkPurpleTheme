@@ -1,9 +1,9 @@
 <scheme name="Dark purple" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2019-02-22T15:06:42</property>
+        <property name="created">2019-02-23T01:15:32</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2019.1.0.0</property>
-        <property name="modified">2019-02-22T15:06:48</property>
+        <property name="modified">2019-02-23T01:15:36</property>
         <property name="originalScheme">_@user_Dark purple</property>
     </metaInfo>
     <colors>
@@ -16,8 +16,8 @@
         <option name="DOCUMENTATION_COLOR" value="281a33" />
         <option name="ERROR_HINT" value="800002" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="b3b3b3" />
-        <option name="GUTTER_BACKGROUND" value="1b1826" />
-        <option name="INDENT_GUIDE" value="3d394d" />
+        <option name="GUTTER_BACKGROUND" value="171721" />
+        <option name="INDENT_GUIDE" value="292733" />
         <option name="INFORMATION_HINT" value="450073" />
         <option name="LINE_NUMBERS_COLOR" value="999999" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffffff" />
@@ -27,18 +27,18 @@
         <option name="QUESTION_HINT" value="5380" />
         <option name="RECURSIVE_CALL_ATTRIBUTES" value="b4c738" />
         <option name="RIGHT_MARGIN_COLOR" value="373445" />
-        <option name="SELECTED_INDENT_GUIDE" value="3d394d" />
-        <option name="SELECTED_TEARLINE_COLOR" value="49415d" />
+        <option name="SELECTED_INDENT_GUIDE" value="373445" />
+        <option name="SELECTED_TEARLINE_COLOR" value="655b80" />
         <option name="SELECTION_BACKGROUND" value="6280" />
-        <option name="SEPARATOR_BELOW_COLOR" value="3d394d" />
+        <option name="SEPARATOR_BELOW_COLOR" value="100e14" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
-        <option name="TEARLINE_COLOR" value="403952" />
+        <option name="TEARLINE_COLOR" value="383247" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="143d00" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="452800" />
         <option name="VCS_ANNOTATIONS_COLOR_3" value="1847" />
         <option name="VCS_ANNOTATIONS_COLOR_4" value="470047" />
         <option name="VCS_ANNOTATIONS_COLOR_5" value="330003" />
-        <option name="VISUAL_INDENT_GUIDE" value="3d394d" />
+        <option name="VISUAL_INDENT_GUIDE" value="373445" />
         <option name="WHITESPACES" value="ffffff" />
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="666666" />
     </colors>
@@ -246,7 +246,7 @@
         </option>
         <option name="DEFAULT_CONSTANT">
             <value>
-                <option name="FOREGROUND" value="bf7bd4" />
+                <option name="FOREGROUND" value="9667ab" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -279,10 +279,15 @@
                 <option name="FOREGROUND" value="d1a649" />
             </value>
         </option>
-        <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+        <option name="DEFAULT_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="c2bfc7" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
-                <option name="FOREGROUND" value="bf7bd4" />
+                <option name="FOREGROUND" value="9667ab" />
             </value>
         </option>
         <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -338,7 +343,7 @@
         </option>
         <option name="DEFAULT_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="bf7bd4" />
+                <option name="FOREGROUND" value="9667ab" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -682,7 +687,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="c2bfc7" />
-                <option name="BACKGROUND" value="11111f" />
+                <option name="BACKGROUND" value="13131c" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
