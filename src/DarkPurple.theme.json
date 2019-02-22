@@ -14,8 +14,8 @@
 
       "selectionBackground": "#453992",
       "selectionForeground": "#FFFFFF",
-      "selectionInactiveBackground": "#383838",
-      "selectionBackgroundInactive": "#383838",
+      "selectionInactiveBackground": "#3a3940",
+      "selectionBackgroundInactive": "#3A3940",
 
       "disabledBackground": "#2d2937",
       "inactiveBackground": "#2d2937",
@@ -115,10 +115,10 @@
     "EditorPane.inactiveBackground": "#000000",
 
     "EditorTabs": {
-      "selectedForeground": "#FFFFFF",
-      "selectedBackground": "#3333FF",
-      "underlineColor": "#3333FF",
-      "inactiveMaskColor": "#000000FF"
+      "selectedForeground": "#a9b8c4",
+      "selectedBackground": "#413a53",
+      "underlineColor": "#5746c0",
+      "inactiveMaskColor": "#"
     },
 
     "FileColor": {
@@ -345,14 +345,14 @@
       "Header": {
         "background": "#474158",
         "inactiveBackground": "#363145",
-        "borderColor": "#363145"
+        "borderColor": "#272334"
       },
 
       "HeaderTab": {
-        "selectedBackground": "#0a0a0aFF",
-        "selectedInactiveBackground": "#0a0a0aFF",
-        "hoverBackground": "#0a0a0aFF",
-        "hoverInactiveBackground": "#0a0a0aFF"
+        "selectedBackground": "#0a0a0a80",
+        "selectedInactiveBackground": "#0a0a0a80",
+        "hoverBackground": "#0a0a0a80",
+        "hoverInactiveBackground": "#0a0a0a80"
       },
 
       "Button": {
