@@ -44,11 +44,11 @@
         <option name="RECURSIVE_CALL_ATTRIBUTES" value="b4c738" />
         <option name="RIGHT_MARGIN_COLOR" value="808080" />
         <option name="SELECTED_INDENT_GUIDE" value="999999" />
-        <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
+        <option name="SELECTED_TEARLINE_COLOR" value="49415d" />
         <option name="SELECTION_BACKGROUND" value="6280" />
         <option name="SEPARATOR_BELOW_COLOR" value="808080" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
-        <option name="TEARLINE_COLOR" value="999999" />
+        <option name="TEARLINE_COLOR" value="49415d" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="143d00" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="452800" />
         <option name="VCS_ANNOTATIONS_COLOR_3" value="1847" />
@@ -714,7 +714,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="ebebeb" />
-                <option name="BACKGROUND" value="131314" />
+                <option name="BACKGROUND" value="101021" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
