@@ -7,13 +7,13 @@
 
   "ui": {
     "*": {
-      "background": "#211f2b",
+      "background": "#201f29",
       "foreground": "#b0acbb",
 
       "infoForeground": "#615e6b",
 
-      "selectionBackground": "#4c2669",
-      "selectionForeground": "#FFFFFF",
+      "selectionBackground": "#4d236e",
+      "selectionForeground": "#c0bccc",
       "selectionInactiveBackground": "#312d40",
       "selectionBackgroundInactive": "#312d40",
 
@@ -207,10 +207,10 @@
       "inactiveBorderColor": "#343142",
       "Toolbar.borderColor": "#1a1721",
       "separatorForeground": "#FFFFFF",
-      "Header.activeBackground": "#000080",
-      "Header.inactiveBackground": "#000080",
+      "Header.activeBackground": "#322C40",
+      "Header.inactiveBackground": "#322C40",
       "Advertiser": {
-        "background": "#000080",
+        "background": "#322C40",
         "borderColor": "#1a1721",
         "borderInsets": "3,8,5,0"
       }
@@ -302,13 +302,13 @@
       },
 
       "Button": {
-        "hoverBackground": "#202128",
-        "selectedBackground": "#202128",
-        "selectedForeground": "#a9b8c4"
+        "hoverBackground": "#111017",
+        "selectedBackground": "#111017",
+        "selectedForeground": "#b0acbb"
       }
     },
 
-    "Tree.rowHeight": 20,
+    "Tree.rowHeight": 21,
 
     "ValidationTooltip": {
       "errorBackground": "#800002",
