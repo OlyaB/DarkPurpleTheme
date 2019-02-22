@@ -124,7 +124,7 @@
 
     "FileColor": {
       "Yellow": "#361a2e",
-      "Green": "#1c4039",
+      "Green": "#162b27",
       "Blue": "#00004D",
       "Violet": "#471747",
       "Orange": "#733000",
@@ -230,37 +230,6 @@
       "failedEndColor": "#431C27",
       "passedColor": "#00E61F",
       "passedEndColor": "#15451E"
-    },
-
-    "ScrollBar": {
-      "Transparent": {
-        "thumbColor": "#b3b3b3",
-        "thumbBorderColor": "#000000C8",
-        "hoverThumbColor": "#E6E6E6",
-        "hoverThumbBorderColor": "#000000C8",
-        "hoverTrackColor": "#E6E6E65A"
-      },
-      "thumbColor": "#b3b3b3",
-      "thumbBorderColor": "#000000C8",
-      "hoverThumbColor": "#E6E6E6",
-      "hoverThumbBorderColor": "#000000C8",
-      "trackColor": "#000000",
-
-      "Mac": {
-        "Transparent": {
-          "thumbColor": "#A6A6A6",
-          "thumbBorderColor": "#000000C8",
-          "hoverThumbColor": "#E6E6E6",
-          "hoverThumbBorderColor": "#000000C8",
-          "hoverTrackColor": "#E6E6E65A"
-        },
-        "thumbColor": "#A6A6A6",
-        "thumbBorderColor": "#000000C8",
-        "hoverThumbColor": "#E6E6E6",
-        "hoverThumbBorderColor": "#000000C8",
-        "trackColor": "#000000",
-        "hoverTrackColor": "#000000"
-      }
     },
 
     "SearchEverywhere": {
@@ -383,7 +352,7 @@
       "Objects.Green": "#20925b",
       "Objects.Blue": "#4b7cf6",
       "Objects.Purple": "#af71e0",
-      "Objects.BlackText": "#231f20b3",
+      "Objects.BlackText": "#0a0814ff",
       "Objects.YellowDark": "#988c26",
       "Objects.GreenAndroid": "#78c257",
 

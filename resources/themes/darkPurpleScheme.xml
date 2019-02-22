@@ -32,31 +32,6 @@
         <option name="SELECTION_BACKGROUND" value="6280" />
         <option name="SEPARATOR_BELOW_COLOR" value="3d394d" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
-        <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="0" />
-        <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ffffff" />
-        <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="e6e6e6" />
-        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="0" />
-        <option name="ScrollBar.Mac.Transparent.thumbColor" value="ffffff" />
-        <option name="ScrollBar.Mac.Transparent.trackColor" value="e6e6e6" />
-        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="0" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="ffffff" />
-        <option name="ScrollBar.Mac.hoverTrackColor" value="0" />
-        <option name="ScrollBar.Mac.thumbBorderColor" value="0" />
-        <option name="ScrollBar.Mac.thumbColor" value="ffffff" />
-        <option name="ScrollBar.Mac.trackColor" value="0" />
-        <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="0" />
-        <option name="ScrollBar.Transparent.hoverThumbColor" value="ffffff" />
-        <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e6" />
-        <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
-        <option name="ScrollBar.Transparent.thumbColor" value="ffffff" />
-        <option name="ScrollBar.Transparent.trackColor" value="e6e6e6" />
-        <option name="ScrollBar.background" value="0" />
-        <option name="ScrollBar.hoverThumbBorderColor" value="0" />
-        <option name="ScrollBar.hoverThumbColor" value="ffffff" />
-        <option name="ScrollBar.hoverTrackColor" value="0" />
-        <option name="ScrollBar.thumbBorderColor" value="0" />
-        <option name="ScrollBar.thumbColor" value="ffffff" />
-        <option name="ScrollBar.trackColor" value="0" />
         <option name="TEARLINE_COLOR" value="403952" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="143d00" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="452800" />
