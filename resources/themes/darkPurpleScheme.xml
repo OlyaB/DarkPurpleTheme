@@ -11,7 +11,7 @@
         <option name="ANNOTATIONS_COLOR" value="ffffff" />
         <option name="CARET_COLOR" value="ffffff" />
         <option name="CARET_ROW_COLOR" value="66" />
-        <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="101021" />
         <option name="DELETED_LINES_COLOR" value="ffa14f" />
         <option name="DOCUMENTATION_COLOR" value="281a33" />
         <option name="ERROR_HINT" value="800002" />
@@ -32,7 +32,7 @@
         <option name="FILESTATUS_changelistConflict" value="ff6666" />
         <option name="FILESTATUS_modifiedOutside" value="4ff0ff" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="b3b3b3" />
-        <option name="GUTTER_BACKGROUND" value="131314" />
+        <option name="GUTTER_BACKGROUND" value="1f1b2b" />
         <option name="INDENT_GUIDE" value="666666" />
         <option name="INFORMATION_HINT" value="450073" />
         <option name="LINE_NUMBERS_COLOR" value="999999" />

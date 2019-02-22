@@ -1,0 +1,32 @@
+<idea-plugin>
+  <id>com.jetbrains.darkPurpleTheme</id>
+  <name>Dark Purple Theme</name>
+  <version>1.0</version>
+  <vendor email="olga.berdnikova@jetbrains.com" url="http://www.jetbrains.com">JetBrains</vendor>
+
+  <description><![CDATA[
+    ]]></description>
+
+  <change-notes><![CDATA[
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="191.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="64bac2a8-9558-4b8a-a0e0-a4017ec9114b" path="/DarkPurple.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
