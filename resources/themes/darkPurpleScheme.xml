@@ -16,7 +16,7 @@
         <option name="DOCUMENTATION_COLOR" value="281a33" />
         <option name="ERROR_HINT" value="800002" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="b3b3b3" />
-        <option name="GUTTER_BACKGROUND" value="171721" />
+        <option name="GUTTER_BACKGROUND" value="181821" />
         <option name="INDENT_GUIDE" value="292733" />
         <option name="INFORMATION_HINT" value="450073" />
         <option name="LINE_NUMBERS_COLOR" value="4d4c52" />
@@ -687,7 +687,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="b0adb3" />
-                <option name="BACKGROUND" value="13131c" />
+                <option name="BACKGROUND" value="13131A" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
