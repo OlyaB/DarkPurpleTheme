@@ -18,6 +18,9 @@
       "selectionBackgroundInactive": "#312d40",
 
       "lightSelectionBackground": "#2e2638",
+      "lightSelectionForeground": "#b5b3ba",
+      "lightSelectionInactiveBackground": "#2d2a3b",
+      "lightSelectionInactiveForeground":"#b5b3ba",
 
       "disabledBackground": "#2d2937",
       "inactiveBackground": "#2d2937",
@@ -204,6 +207,7 @@
 
     "Popup": {
       "paintBorder": true,
+      "borderColor": "#3d364e",
       "inactiveBorderColor": "#343142",
       "Toolbar.borderColor": "#1a1721",
       "separatorForeground": "#FFFFFF",
@@ -266,10 +270,7 @@
     "TableHeader.cellBorder": "3,0,3,0",
 
     "Table": {
-      "stripeColor": "#000033",
-      "lightSelectionForeground": "#FFFFFF",
-      "lightSelectionInactiveForeground":"#FFFFFF",
-      "lightSelectionInactiveBackground":"#383838"
+      "stripeColor": "#000033"
     },
 
     "ToggleButton": {

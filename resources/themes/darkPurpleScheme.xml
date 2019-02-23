@@ -1,9 +1,9 @@
 <scheme name="Dark purple" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2019-02-23T13:40:58</property>
+        <property name="created">2019-02-23T14:42:11</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2019.1.0.0</property>
-        <property name="modified">2019-02-23T13:41:03</property>
+        <property name="modified">2019-02-23T14:42:14</property>
         <property name="originalScheme">_@user_Dark purple</property>
     </metaInfo>
     <colors>
@@ -21,10 +21,11 @@
         <option name="INFORMATION_HINT" value="450073" />
         <option name="LINE_NUMBERS_COLOR" value="4d4c52" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="4d4c52" />
-        <option name="METHOD_SEPARATORS_COLOR" value="cccccc" />
+        <option name="METHOD_SEPARATORS_COLOR" value="373445" />
         <option name="MODIFIED_LINES_COLOR" value="1aabff" />
         <option name="NOTIFICATION_BACKGROUND" value="80" />
         <option name="QUESTION_HINT" value="5380" />
+        <option name="RECENT_LOCATIONS_SELECTION" value="241f2b" />
         <option name="RECURSIVE_CALL_ATTRIBUTES" value="b4c738" />
         <option name="RIGHT_MARGIN_COLOR" value="373445" />
         <option name="SELECTED_INDENT_GUIDE" value="373445" />
@@ -687,7 +688,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="b0adb3" />
-                <option name="BACKGROUND" value="13131A" />
+                <option name="BACKGROUND" value="13131a" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
