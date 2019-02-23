@@ -1,9 +1,9 @@
 <scheme name="Dark purple" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2019-02-23T01:52:02</property>
+        <property name="created">2019-02-23T13:11:02</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2019.1.0.0</property>
-        <property name="modified">2019-02-23T01:52:06</property>
+        <property name="modified">2019-02-23T13:11:06</property>
         <property name="originalScheme">_@user_Dark purple</property>
     </metaInfo>
     <colors>
@@ -246,7 +246,7 @@
         </option>
         <option name="DEFAULT_CONSTANT">
             <value>
-                <option name="FOREGROUND" value="8d65a6" />
+                <option name="FOREGROUND" value="8b70b8" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -299,7 +299,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="996643" />
+                <option name="FOREGROUND" value="915770" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
@@ -343,7 +343,7 @@
         </option>
         <option name="DEFAULT_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="8d65a6" />
+                <option name="FOREGROUND" value="8b70b8" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
