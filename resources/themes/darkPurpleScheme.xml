@@ -1,9 +1,9 @@
 <scheme name="Dark purple" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2019-02-23T14:42:11</property>
+        <property name="created">2019-02-23T15:21:04</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2019.1.0.0</property>
-        <property name="modified">2019-02-23T14:42:14</property>
+        <property name="modified">2019-02-23T15:21:07</property>
         <property name="originalScheme">_@user_Dark purple</property>
     </metaInfo>
     <colors>
@@ -15,7 +15,7 @@
         <option name="DELETED_LINES_COLOR" value="ffa14f" />
         <option name="DOCUMENTATION_COLOR" value="281a33" />
         <option name="ERROR_HINT" value="800002" />
-        <option name="FOLDED_TEXT_BORDER_COLOR" value="b3b3b3" />
+        <option name="FOLDED_TEXT_BORDER_COLOR" value="344080" />
         <option name="GUTTER_BACKGROUND" value="181821" />
         <option name="INDENT_GUIDE" value="292733" />
         <option name="INFORMATION_HINT" value="450073" />
@@ -30,7 +30,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="373445" />
         <option name="SELECTED_INDENT_GUIDE" value="373445" />
         <option name="SELECTED_TEARLINE_COLOR" value="655b80" />
-        <option name="SELECTION_BACKGROUND" value="6280" />
+        <option name="SELECTION_BACKGROUND" value="41364d" />
         <option name="SEPARATOR_BELOW_COLOR" value="100e14" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
         <option name="TEARLINE_COLOR" value="383247" />
@@ -398,9 +398,9 @@
         </option>
         <option name="ERRORS_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="ff0d25" />
-                <option name="ERROR_STRIPE_COLOR" value="ff0d25" />
-                <option name="EFFECT_TYPE" value="4" />
+                <option name="EFFECT_COLOR" value="dd3962" />
+                <option name="ERROR_STRIPE_COLOR" value="dd3962" />
+                <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
         <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
@@ -420,8 +420,8 @@
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="cccccc" />
-                <option name="EFFECT_COLOR" value="b3b3b3" />
+                <option name="BACKGROUND" value="202445" />
+                <option name="EFFECT_COLOR" value="293266" />
             </value>
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -694,9 +694,10 @@
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="1133" />
-                <option name="EFFECT_COLOR" value="aeff" />
-                <option name="ERROR_STRIPE_COLOR" value="1ab6ff" />
+                <option name="FOREGROUND" value="b0adb3" />
+                <option name="BACKGROUND" value="264d4d" />
+                <option name="EFFECT_COLOR" value="1a1a" />
+                <option name="ERROR_STRIPE_COLOR" value="3d9999" />
             </value>
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -724,10 +725,9 @@
         </option>
         <option name="WARNING_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="cccccc" />
-                <option name="BACKGROUND" value="2e2410" />
-                <option name="ERROR_STRIPE_COLOR" value="ffb300" />
-                <option name="EFFECT_TYPE" value="4" />
+                <option name="BACKGROUND" value="382626" />
+                <option name="ERROR_STRIPE_COLOR" value="bf8915" />
+                <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">

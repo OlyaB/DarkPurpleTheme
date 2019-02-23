@@ -207,7 +207,7 @@
 
     "Popup": {
       "paintBorder": true,
-      "borderColor": "#3d364e",
+      "borderColor": "#312c3d",
       "inactiveBorderColor": "#343142",
       "Toolbar.borderColor": "#1a1721",
       "separatorForeground": "#FFFFFF",
@@ -237,12 +237,15 @@
     },
 
     "SearchEverywhere": {
+
       "Tab": {
         "selectedForeground": "#b5b3ba",
-        "selectedBackground": "#37254d"
+        "selectedBackground": "#3c2857"
       },
-      "SearchField.borderColor": "#1a1721",
-      "SearchField.background": "#13131A",
+      "SearchField":{
+        "background": "#13131A",
+        "borderColor": "#1a1721"
+      },
       "Advertiser": {
         "foreground": "#615e6b"
       }
