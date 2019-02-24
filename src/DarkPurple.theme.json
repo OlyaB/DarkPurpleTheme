@@ -10,7 +10,7 @@
       "background": "#1F1E26",
       "foreground": "#b5b3ba",
 
-      "infoForeground": "#615e6b",
+      "infoForeground": "#5e5a6e",
 
       "selectionBackground": "#4d236e",
       "selectionForeground": "#c0bccc",
@@ -25,12 +25,12 @@
       "disabledBackground": "#2d2937",
       "inactiveBackground": "#2d2937",
 
-      "disabledForeground": "#615f68",
-      "disabledText": "#615f68",
-      "inactiveForeground": "#615f68",
+      "disabledForeground": "#514e5c",
+      "disabledText": "#514e5c",
+      "inactiveForeground": "#514e5c",
 
-      "acceleratorForeground": "#E6E6E6",
-      "acceleratorSelectionForeground": "#E6E6E6",
+      "acceleratorForeground": "#c0bccc",
+      "acceleratorSelectionForeground": "#c0bccc",
 
       "errorForeground": "#dd3962",
 
@@ -84,7 +84,7 @@
       }
     },
 
-    "ComboPopup.border": "1,1,1,1,343142",
+    "ComboPopup.border": "1,1,1,1,3D394D",
 
     "CompletionPopup":  {
       "matchForeground": "#ED94FF",
@@ -92,36 +92,36 @@
     },
 
     "Component": {
-      "errorFocusColor": "#E6194B",
-      "inactiveErrorFocusColor": "#800002",
-      "warningFocusColor": "#F58231",
-      "inactiveWarningFocusColor": "#804605",
-      "iconColor": "#FFFFFF",
-      "hoverIconColor": "#FFFFFF"
+      "errorFocusColor": "#993750",
+      "inactiveErrorFocusColor": "#522530",
+      "warningFocusColor": "#8c812b",
+      "inactiveWarningFocusColor": "#47441f",
+      "iconColor": "#77728fB3",
+      "hoverIconColor": "#807a99"
     },
 
     "Counter": {
-      "background": "#FFFFFF",
+      "background": "#FFFFFF80",
       "foreground": "#000000"
     },
 
-    "DebuggerPopup.borderColor": "#343142",
+    "DebuggerPopup.borderColor": "#474359",
 
-    "DebuggerTabs.selectedBackground": "#000080",
+    "DebuggerTabs.selectedBackground": "#332C40",
 
     "DragAndDrop": {
-      "areaForeground": "#FFFFFF",
-      "areaBackground": "#00838f",
+      "areaForeground": "#b5b3ba",
+      "areaBackground": "#4d236e",
       "areaBorderColor": "#343142"
     },
 
     "Editor": {
-      "background": "#1f1f1f",
-      "foreground": "#CCCCCC",
-      "shortcutForeground": "#D2F53C"
+      "background": "#13131A",
+      "foreground": "#5e5a6e",
+      "shortcutForeground": "#7078e0"
     },
 
-    "EditorPane.inactiveBackground": "#000000",
+    "EditorPane.inactiveBackground": "#1F1E26",
 
     "EditorTabs": {
       "selectedForeground": "#a9b8c4",
@@ -132,20 +132,15 @@
     },
 
     "FileColor": {
-      "Yellow": "#361a2e",
-      "Green": "#162b27",
-      "Blue": "#00004D",
-      "Violet": "#471747",
-      "Orange": "#733000",
-      "Rose": "#4D0F22"
+      "Yellow": "#21131d",
+      "Green": "#172623",
+      "Blue": "#14223d",
+      "Violet": "#1a1733",
+      "Orange": "#33251c",
+      "Rose": "#23172e"
     },
 
-    "InplaceRefactoringPopup": {
-      "background": "#450073",
-      "borderColor": "#343142"
-    },
-
-    "Label.selectedDisabledForeground": "#E0861F",
+    "InplaceRefactoringPopup.borderColor": "#474359",
 
     "Link": {
       "activeForeground": "#7078e0",
@@ -157,26 +152,27 @@
     "NavBar.borderColor": "#343142",
 
     "Notification": {
-      "background": "#000080",
+      "background": "#25242e",
+      "borderColor": "#423c4f",
 
-      "errorForeground": "#FFFFFF",
-      "errorBackground": "#800002",
-      "errorBorderColor": "#E6194B",
+      "errorForeground": "#b5b3ba",
+      "errorBackground": "#421e27",
+      "errorBorderColor": "#802e44",
 
       "MoreButton.innerBorderColor": "#343142",
 
       "ToolWindow": {
-        "informativeForeground": "#FFFFFF",
-        "informativeBackground": "#450073",
-        "informativeBorderColor": "#e6e6e6",
+        "informativeForeground": "#b5b3ba",
+        "informativeBackground": "#222961",
+        "informativeBorderColor": "#384280",
 
-        "warningForeground": "#FFFFFF",
-        "warningBackground": "#804605",
-        "warningBorderColor": "#F58231",
+        "warningForeground": "#b5b3ba",
+        "warningBackground": "#47441f",
+        "warningBorderColor": "#66612d",
 
-        "errorForeground": "#FFFFFF",
-        "errorBackground": "#800002",
-        "errorBorderColor": "#E6194B"
+        "errorForeground": "#b5b3ba",
+        "errorBackground": "#592432",
+        "errorBorderColor": "#802f46"
       }
     },
 
@@ -276,9 +272,7 @@
 
     "TableHeader.cellBorder": "3,0,3,0",
 
-    "Table": {
-      "stripeColor": "#000033"
-    },
+    "Table.stripeColor": "#23222b",
 
     "TextField": {
       "background": "#272630",
