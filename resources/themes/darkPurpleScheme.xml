@@ -16,11 +16,11 @@
         <option name="DOCUMENTATION_COLOR" value="281a33" />
         <option name="ERROR_HINT" value="800002" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="344080" />
-        <option name="GUTTER_BACKGROUND" value="181821" />
+        <option name="GUTTER_BACKGROUND" value="20202B" />
         <option name="INDENT_GUIDE" value="292733" />
         <option name="INFORMATION_HINT" value="450073" />
-        <option name="LINE_NUMBERS_COLOR" value="4d4c52" />
-        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="4d4c52" />
+        <option name="LINE_NUMBERS_COLOR" value="575566" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="575566" />
         <option name="METHOD_SEPARATORS_COLOR" value="373445" />
         <option name="MODIFIED_LINES_COLOR" value="1aabff" />
         <option name="NOTIFICATION_BACKGROUND" value="80" />
@@ -688,7 +688,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="b0adb3" />
-                <option name="BACKGROUND" value="13131a" />
+                <option name="BACKGROUND" value="1D1D26" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
