@@ -154,8 +154,8 @@
     "NavBar.borderColor": "#1a1721",
 
     "Notification": {
-      "background": "#323245",
-      "borderColor": "#423c4f",
+      "background": "#3d394d",
+      "borderColor": "#57506e",
 
       "errorForeground": "#D0D0D9",
       "errorBackground": "#4d232e",
