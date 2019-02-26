@@ -231,13 +231,13 @@
 
     "ProgressBar": {
       "trackColor": "#1D1D26",
-      "progressColor": "#9b54c7",
-      "indeterminateStartColor": "#9B54C7",
-      "indeterminateEndColor": "#362640",
-      "failedColor": "#b33959",
-      "failedEndColor": "#3b2429",
-      "passedColor": "#3aa6a6",
-      "passedEndColor": "#243838"
+      "progressColor": "#a85ed6",
+      "indeterminateStartColor": "#a85ed6",
+      "indeterminateEndColor": "#402e4d",
+      "failedColor": "#bd3c5f",
+      "failedEndColor": "#472c33",
+      "passedColor": "#239E62",
+      "passedEndColor": "#2b4242"
     },
 
     "SearchEverywhere": {
@@ -359,7 +359,7 @@
       "Objects.Red": "#c63a5d",
       "Objects.Pink": "#f98b9e",
       "Objects.Yellow": "#caba2d",
-      "Objects.Green": "#20925b",
+      "Objects.Green": "#239e62",
       "Objects.Blue": "#598bff",
       "Objects.Purple": "#af71e0",
       "Objects.BlackText": "#000000ff",
