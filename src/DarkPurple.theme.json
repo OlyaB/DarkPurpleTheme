@@ -42,7 +42,7 @@
 
       "separatorForeground": "#6d6a80",
       "separatorColor": "#4e4b61",
-      "lineSeparatorColor": "#6A6173"
+      "lineSeparatorColor": "#55506b"
     },
 
     "ActionButton": {
@@ -107,7 +107,7 @@
       "foreground": "#000000"
     },
 
-    "DebuggerPopup.borderColor": "#474359",
+    "DebuggerPopup.borderColor": "#524e66",
 
     "DebuggerTabs.selectedBackground": "#332C40",
 
