@@ -17,7 +17,7 @@
       "selectionInactiveBackground": "#3d3952",
       "selectionBackgroundInactive": "#3d3952",
 
-      "lightSelectionBackground": "#383045",
+      "lightSelectionBackground": "#3a324a",
       "lightSelectionForeground": "#D0D0D9",
       "lightSelectionInactiveBackground": "#3d3952",
       "lightSelectionInactiveForeground":"#D0D0D9",
@@ -200,12 +200,13 @@
       "tagForeground": "#D0D0D9",
 
       "Button": {
-        "installForeground": "#8465a6",
-        "installBorderColor":"#8465a6",
+        "installForeground": "#8862b3",
+        "installBorderColor":"#8862b3",
         "installFillForeground": "#D0D0D9",
         "installFillBackground": "#713a91",
         "updateForeground":"#D0D0D9",
-        "updateBackground": "#713a91"
+        "updateBackground": "#713a91",
+        "updateBorderColor": "#713a91"
       }
     },
 
