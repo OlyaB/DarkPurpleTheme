@@ -230,12 +230,12 @@
 
     "ProgressBar": {
       "trackColor": "#1D1D26",
-      "progressColor": "#934cbf",
-      "indeterminateStartColor": "#934cbf",
+      "progressColor": "#9b54c7",
+      "indeterminateStartColor": "#9B54C7",
       "indeterminateEndColor": "#362640",
-      "failedColor": "#993750",
+      "failedColor": "#b33959",
       "failedEndColor": "#3b2429",
-      "passedColor": "#3D9999",
+      "passedColor": "#3aa6a6",
       "passedEndColor": "#243838"
     },
 
