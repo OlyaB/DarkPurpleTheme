@@ -134,12 +134,12 @@
     },
 
     "FileColor": {
-      "Yellow": "#21131d",
-      "Green": "#172623",
-      "Blue": "#14223d",
-      "Violet": "#1a1733",
-      "Orange": "#33251c",
-      "Rose": "#23172e"
+      "Yellow": "#45243b",
+      "Green": "#213d37",
+      "Blue": "#1f3557",
+      "Violet": "#2a2754",
+      "Orange": "#402e23",
+      "Rose": "#4a2d59"
     },
 
     "InplaceRefactoringPopup.borderColor": "#474359",
