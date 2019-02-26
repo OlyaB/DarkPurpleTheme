@@ -145,10 +145,10 @@
     "InplaceRefactoringPopup.borderColor": "#474359",
 
     "Link": {
-      "activeForeground": "#6E86FF",
-      "hoverForeground": "#6E86FF",
-      "pressedForeground": "#6E86FF",
-      "visitedForeground": "#6E86FF"
+      "activeForeground": "#7094ff",
+      "hoverForeground": "#7094FF",
+      "pressedForeground": "#7094FF",
+      "visitedForeground": "#7094FF"
     },
 
     "NavBar.borderColor": "#1a1721",
