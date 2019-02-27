@@ -42,7 +42,9 @@
 
       "separatorForeground": "#6d6a80",
       "separatorColor": "#4e4b61",
-      "lineSeparatorColor": "#55506b"
+      "lineSeparatorColor": "#55506b",
+
+      "modifiedItemForeground": "#b279f2"
     },
 
     "ActionButton": {
