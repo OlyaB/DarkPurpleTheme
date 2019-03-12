@@ -1,13 +1,13 @@
 <scheme name="Dark purple" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-02-27T13:14:52</property>
+    <property name="created">2019-02-28T00:57:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-02-27T13:14:55</property>
+    <property name="modified">2019-02-28T00:57:31</property>
     <property name="originalScheme">_@user_Dark purple</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="3c8545" />
+    <option name="ADDED_LINES_COLOR" value="39703f" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1d1d29" />
@@ -16,6 +16,16 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="3e3e57" />
     <option name="DOCUMENTATION_COLOR" value="2c2c3b" />
     <option name="ERROR_HINT" value="802d43" />
+    <option name="FILESTATUS_ADDED" value="76b366" />
+    <option name="FILESTATUS_COPIED" value="629755" />
+    <option name="FILESTATUS_DELETED" value="7a7a99" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="7a7a99" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c78ba1" />
+    <option name="FILESTATUS_MERGED" value="b78fcc" />
+    <option name="FILESTATUS_MODIFIED" value="62baf5" />
+    <option name="FILESTATUS_RENAMED" value="54bfbf" />
+    <option name="FILESTATUS_UNKNOWN" value="bf8060" />
+    <option name="FILESTATUS_addedOutside" value="548049" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="495bb3" />
     <option name="GUTTER_BACKGROUND" value="20202b" />
     <option name="INDENT_GUIDE" value="393747" />
@@ -139,7 +149,7 @@
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value>
-        <option name="EFFECT_COLOR" value="22732d" />
+        <option name="EFFECT_COLOR" value="216628" />
       </value>
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
@@ -193,8 +203,8 @@
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="aaff" />
-        <option name="EFFECT_COLOR" value="589df6" />
+        <option name="FOREGROUND" value="50afde" />
+        <option name="EFFECT_COLOR" value="4d7f99" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -299,7 +309,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="6a8759" />
+        <option name="FOREGROUND" value="62a362" />
         <option name="EFFECT_COLOR" value="dd3962" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -362,7 +372,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="55ab5b" />
+        <option name="FOREGROUND" value="62a362" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
@@ -431,8 +441,8 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="90d9" />
-        <option name="EFFECT_COLOR" value="90d9" />
+        <option name="FOREGROUND" value="50afde" />
+        <option name="EFFECT_COLOR" value="4d7f99" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -455,21 +465,20 @@
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="aaff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="4dacf0" />
       </value>
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="ed864a" />
+        <option name="FOREGROUND" value="e0957b" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="aaff" />
-        <option name="EFFECT_COLOR" value="aaff" />
+        <option name="FOREGROUND" value="50afde" />
+        <option name="EFFECT_COLOR" value="4d7f99" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -519,6 +528,11 @@
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="e0967b" />
+      </value>
+    </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -534,14 +548,12 @@
     </option>
     <option name="KOTLIN_LABEL">
       <value>
-        <option name="FOREGROUND" value="aaff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="4dacf0" />
       </value>
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="aaff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="4dacf0" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
@@ -594,7 +606,6 @@
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f23f6c" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
@@ -637,13 +648,27 @@
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="REGEXP.CHAR_CLASS">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="REGEXP.META">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="REGEXP.QUOTE_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value />
     </option>
     <option name="SASS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="aaff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="4dacf0" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -661,7 +686,6 @@
     <option name="SPY-JS.EXECUTION_TIME">
       <value>
         <option name="FOREGROUND" value="aaff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SPY-JS.FUNCTION_SCOPE">
@@ -686,6 +710,23 @@
       <value>
         <option name="BACKGROUND" value="1233" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Static method access">
+      <value>
+        <option name="FOREGROUND" value="93a6f5" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Static property reference ID">
+      <value>
+        <option name="FOREGROUND" value="93a6f5" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TAPESTRY_COMPONENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -718,12 +759,21 @@
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="37cccc" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f23f6c" />
+      </value>
+    </option>
+    <option name="VELOCITY_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="VELOCITY_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
@@ -759,20 +809,37 @@
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="aaff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="4dacf0" />
+      </value>
+    </option>
+    <option name="XML_PROLOGUE">
+      <value>
+        <option name="FOREGROUND" value="c7a65d" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="c7a65d" />
+      </value>
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="c7a65d" />
+      </value>
+    </option>
+    <option name="XPATH.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="XPATH.XPATH_NAME">
+      <value>
+        <option name="FOREGROUND" value="da5a6c" />
       </value>
     </option>
     <option name="YAML_ANCHOR">
       <value>
-        <option name="FOREGROUND" value="ffcf40" />
-      </value>
-    </option>
-  </attributes>
-  <attributes>
-    <option name="CONSOLE_RANGE_TO_EXECUTE">
-      <value>
-        <option name="EFFECT_COLOR" value="216628" />
+        <option name="FOREGROUND" value="c7a65d" />
       </value>
     </option>
   </attributes>
