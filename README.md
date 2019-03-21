@@ -5,7 +5,7 @@ To install:
 * Restart IDE
 * Go to _Settings (Preferences) | Appearance & Behavior | Appearance_ and see the _Theme_ dropdown  
   
-  
+<br/>
 [In JetBrains plugin repository](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme) | [Report an issue](https://github.com/OlyaB/DarkPurpleTheme/issues)  
 
 ![Dark purple theme main window](/screenshots/darkpurple-main-window.png)  
