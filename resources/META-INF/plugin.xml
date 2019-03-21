@@ -5,8 +5,20 @@
   <vendor email="olga.berdnikova@jetbrains.com" url="http://www.jetbrains.com">JetBrains</vendor>
 
   <description><![CDATA[
-  A dark theme in purple tones. <a href="https://youtrack.jetbrains.com/newIssue?project=IDEA&c=assignee%20Olga.Berdnikova">Send feedback</a> | <a href="https://github.com/OlyaB/DarkPurpleTheme">On GitHub</a> | <a href="http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_intro.html">How to make a theme</a>
+  A dark theme in purple tones. For version 2019.1 and above.
   <br/><br/>
+
+  To install:
+  <ul>
+  <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
+  <li>Restart IDE</li>
+  <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
+  </ul>
+  <br/>
+
+  <a href="https://github.com/OlyaB/DarkPurpleTheme/issues">Report an issue</a>  |  <a href="https://github.com/OlyaB/DarkPurpleTheme">On GitHub</a>  |  <a href="http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_intro.html">How to make a theme</a>
+  <br/><br/><br/>
+
   <img src="https://raw.githubusercontent.com/OlyaB/DarkPurpleTheme/master/screenshots/darkpurple-main-window.png" border="0" width="700" alt="Main window screenshot">
   <br/>
   <img src="https://raw.githubusercontent.com/OlyaB/DarkPurpleTheme/master/screenshots/darkpurple-settings.png" border="0" width="700" alt="Settings screenshot">
