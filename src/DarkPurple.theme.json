@@ -115,6 +115,11 @@
 
     "DebuggerTabs.selectedBackground": "#332C40",
 
+    "DefaultTabs": {
+      "underlineColor": "#8b4bb3",
+      "inactiveUnderlineColor": "#726080"
+    },
+
     "DragAndDrop": {
       "areaForeground": "#D0D0D9",
       "areaBackground": "#702F91",
@@ -132,8 +137,12 @@
     "EditorTabs": {
       "selectedForeground": "#D0D0D9",
       "selectedBackground": "#343445",
-      "underlineColor": "#8b4bb3",
       "inactiveMaskColor": "#0d0d0d33",
+
+      "underlinedTabBackground": "#2C2C3B",
+      "inactiveColoredFileBackground": "#2C2C3B80",
+      "hoverMaskColor": "#0000004D",
+
       "borderColor": "#1a1721"
     },
 
