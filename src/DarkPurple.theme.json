@@ -277,7 +277,12 @@
       "contentAreaColor": "#1a1721"
     },
 
-    "TableHeader.cellBorder": "3,0,3,0",
+    "TableHeader": {
+      "cellBorder": "3,0,3,0",
+      "background": "#363445",
+      "separatorColor": "#1a1721",
+      "bottomSeparatorColor": "#282430"
+    },
 
     "Table.stripeColor": "#323242",
 
