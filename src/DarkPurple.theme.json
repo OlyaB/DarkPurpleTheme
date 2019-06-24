@@ -184,6 +184,11 @@
       }
     },
 
+    "MemoryIndicator": {
+      "allocatedBackground": "#352140",
+      "usedBackground": "#533473"
+    },
+
     "ParameterInfo": {
       "background": "#463f57",
       "foreground": "#ababb3",
