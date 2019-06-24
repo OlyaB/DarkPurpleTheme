@@ -92,7 +92,9 @@
 
     "CompletionPopup":  {
       "matchForeground": "#ED94FF",
-      "matchSelectionForeground": "#ED94FF"
+      "matchSelectionForeground": "#ED94FF",
+      "selectionInactiveBackground": "#44405c",
+      "nonFocusedMask": "#00000033"
     },
 
     "Component": {
