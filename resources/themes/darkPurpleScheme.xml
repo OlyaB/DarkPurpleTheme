@@ -10,14 +10,12 @@
     <option name="ADDED_LINES_COLOR" value="39703f" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="1d1d29" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1d1d26" />
     <option name="DELETED_LINES_COLOR" value="dfdfe6" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="3e3e57" />
     <option name="DOCUMENTATION_COLOR" value="2c2c3b" />
     <option name="ERROR_HINT" value="802d43" />
     <option name="FILESTATUS_ADDED" value="76b366" />
-    <option name="FILESTATUS_COPIED" value="629755" />
     <option name="FILESTATUS_DELETED" value="7a7a99" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="7a7a99" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c78ba1" />
@@ -50,8 +48,9 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="470047" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="330003" />
     <option name="VISUAL_INDENT_GUIDE" value="373445" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="626273" />
     <option name="WHITESPACES" value="8b85a6" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="626273" />
+    <option name="CARET_ROW_COLOR" value="222230" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
