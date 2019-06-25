@@ -8,8 +8,9 @@
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="39703f" />
-    <option name="ANNOTATIONS_COLOR" value="ffffff" />
+    <option name="ANNOTATIONS_COLOR" value="adadb3" />
     <option name="CARET_COLOR" value="ffffff" />
+    <option name="CARET_ROW_COLOR" value="242433" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1d1d26" />
     <option name="DELETED_LINES_COLOR" value="dfdfe6" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="3e3e57" />
@@ -42,15 +43,14 @@
     <option name="SEPARATOR_BELOW_COLOR" value="100e14" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="c9c9d1" />
     <option name="TEARLINE_COLOR" value="403a52" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="143d00" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="452800" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="1847" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="470047" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="330003" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="123624" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="3d2525" />
     <option name="VISUAL_INDENT_GUIDE" value="373445" />
     <option name="WHITESPACES" value="8b85a6" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="626273" />
-    <option name="CARET_ROW_COLOR" value="242433" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="3d223d" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="13223d" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="3b301d" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
