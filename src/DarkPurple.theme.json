@@ -116,8 +116,9 @@
     "DebuggerTabs.selectedBackground": "#332C40",
 
     "DefaultTabs": {
-      "underlineColor": "#8b4bb3",
-      "inactiveUnderlineColor": "#726080"
+      "underlineColor": "#9649cc",
+      "inactiveUnderlineColor": "#877399",
+      "hoverBackground": "#dfb3ff1a"
     },
 
     "DragAndDrop": {
@@ -139,9 +140,10 @@
       "selectedBackground": "#343445",
       "inactiveMaskColor": "#0d0d0d33",
 
-      "underlinedTabBackground": "#2C2C3B",
+      "underlineColor": "#904ac2",
+
+      "underlinedTabBackground": "#363647",
       "inactiveColoredFileBackground": "#2C2C3B80",
-      "hoverMaskColor": "#0000004D",
 
       "borderColor": "#1a1721"
     },
@@ -288,9 +290,11 @@
     "StatusBar.borderColor": "#1a1721",
 
     "TabbedPane": {
-      "underlineColor": "#8b4bb3",
+      "underlineColor": "#9649cc",
       "disabledUnderlineColor": "#5e5b6b",
-      "contentAreaColor": "#1a1721"
+      "contentAreaColor": "#1a1721",
+      "hoverColor": "#dfb3ff1a",
+      "focusColor": "#523366"
     },
 
     "TableHeader": {
@@ -336,8 +340,8 @@
       "HeaderTab": {
         "selectedBackground": "#0a0a0a66",
         "selectedInactiveBackground": "#0a0a0a4D",
-        "hoverBackground": "#0a0a0a66",
-        "hoverInactiveBackground": "#0a0a0a66"
+        "hoverBackground": "#dfb3ff1a",
+        "hoverInactiveBackground": "#dfb3ff1a"
       },
 
       "Button": {
