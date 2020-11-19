@@ -51,7 +51,8 @@
       "hoverBackground": "#453e57",
       "hoverBorderColor": "#453E57",
       "pressedBackground": "#49415c",
-      "pressedBorderColor": "#49415C"
+      "pressedBorderColor": "#49415C",
+      "focusedBorderColor": "#476fcc"
     },
 
     "Button": {
@@ -280,6 +281,8 @@
       "endBackground": "#cca929"
     },
 
+    "SearchOption.selectedBackground": "#424885",
+
     "SpeedSearch": {
       "foreground": "#D0D0D9",
       "borderColor": "#69418c",
@@ -304,7 +307,10 @@
       "bottomSeparatorColor": "#282430"
     },
 
-    "Table.stripeColor": "#323242",
+    "Table": {
+      "stripeColor": "#323242",
+      "hoverBackground": "#00000028"
+    },
 
     "TextArea": {
       "background": "#3A384D",
@@ -327,7 +333,9 @@
 
     "ToolTip": {
       "background": "#463f57",
-      "Actions.background": "#323245"
+      "Actions.background": "#323245",
+      "infoForeground": "#8985a1",
+      "shortcutForeground": "#8985A1"
     },
 
     "ToolWindow": {
@@ -363,7 +371,8 @@
     "VersionControl": {
       "Log.Commit": {
         "currentBranchBackground": "#202340",
-        "unmatchedForeground": "#6d6a80"
+        "unmatchedForeground": "#6d6a80",
+        "hoveredBackground": "#000000B9"
       },
       "FileHistory.Commit.selectedBranchBackground": "#202340"
     },
