@@ -370,7 +370,9 @@
 
     "WelcomeScreen": {
       "Projects.selectionInactiveBackground": "#713a91",
-      "separatorColor": "#1a1721"
+      "separatorColor": "#1a1721",
+      "Details.background": "#26262E",
+      "Projects.actions.background": "#343445"
     }
   },
 
