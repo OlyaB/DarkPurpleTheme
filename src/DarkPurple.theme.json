@@ -384,7 +384,9 @@
 
     "Tree": {
       "rowHeight": 20,
-      "hash": "#4E4C63"
+      "hash": "#4E4C63",
+      "hoverBackground": "#00000033",
+      "hoverInactiveBackground": "#00000033"
     },
 
     "ValidationTooltip": {
