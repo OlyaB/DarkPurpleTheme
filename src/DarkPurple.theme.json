@@ -168,6 +168,11 @@
       "visitedForeground": "#7094FF"
     },
 
+    "List": {
+      "hoverBackground": "#3D3952",
+      "hoverInactiveBackground": "#3D3952"
+    },
+
     "MenuBar.borderColor": "#1a1721",
 
     "NavBar.borderColor": "#1a1721",
@@ -197,6 +202,12 @@
       }
     },
 
+    "NotificationsToolwindow": {
+      "newNotification.background": "#3D3952B3",
+      "newNotification.hoverBackground": "#3D3952",
+      "Notification.hoverBackground": "#3D3952"
+    },
+
     "MemoryIndicator": {
       "allocatedBackground": "#352140",
       "usedBackground": "#533473"
@@ -211,6 +222,8 @@
     },
 
     "Plugins": {
+      "hoverBackground": "#3a324a80",
+
       "Tab": {
         "selectedForeground": "#D0D0D9",
         "selectedBackground": "#593f73",
@@ -283,6 +296,13 @@
     },
 
     "SearchOption.selectedBackground": "#424885",
+
+    "SegmentedButton": {
+      "selectedButtonColor": "#45405C",
+      "focusedSelectedButtonColor": "#693687",
+      "selectedStartBorderColor": "#4E4C63",
+      "selectedEndBorderColor": "#4E4C63"
+    },
 
     "SpeedSearch": {
       "foreground": "#D0D0D9",
