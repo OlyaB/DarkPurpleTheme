@@ -423,7 +423,7 @@
       "infoBorderColor": "#17254d"
     },
     "Breakpoint.iconHoverAlpha": 0.35,
-    "Button..Split.default.separatorColor": "#FFFFFF40",
+    "Button.Split.default.separatorColor": "#FFFFFF40",
     "ComplexPopup.Header.background": "#463f57",
     "Editor": {
       "SearchField" : {
