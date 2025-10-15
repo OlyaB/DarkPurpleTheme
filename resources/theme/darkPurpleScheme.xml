@@ -314,7 +314,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="e0957b" />
+        <option name="FOREGROUND" value="ff00ff" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -329,7 +329,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="4dacf0" />
+        <option name="FOREGROUND" value="ff00ff" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">

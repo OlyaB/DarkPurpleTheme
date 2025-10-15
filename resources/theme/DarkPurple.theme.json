@@ -1,9 +1,8 @@
 {
-  "name": "Dark purple",
+  "name": "Dark Purple",
   "dark": true,
   "author": "JetBrains",
-
-  "editorScheme": "/themes/darkPurpleScheme.xml",
+  "editorScheme": "Dark Purple",
 
   "ui": {
     "*": {
