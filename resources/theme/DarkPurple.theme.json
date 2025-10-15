@@ -2,7 +2,7 @@
   "name": "Dark Purple",
   "dark": true,
   "author": "JetBrains",
-  "editorScheme": "Dark Purple",
+  "editorScheme": "/darkPurpleScheme.xml",
 
   "ui": {
     "*": {

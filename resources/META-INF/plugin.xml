@@ -59,7 +59,6 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="Dark Purple" path="/theme/DarkPurple.theme.json"/>
-    <bundledColorScheme id="Dark Purple" path="/theme/darkPurpleScheme.xml"/>
   </extensions>
 
 </idea-plugin>
