@@ -60,6 +60,7 @@
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="Dark Purple Classic" path="/theme/DarkPurpleClassic.theme.json"/>
     <themeProvider id="Dark Purple New UI" path="/theme/DarkPurpleNewUI.theme.json"/>
+    <themeProvider id="Dark Purple Islands" path="/theme/DarkPurpleIslands.theme.json"/>
   </extensions>
 
 </idea-plugin>

@@ -456,12 +456,14 @@
       "Header": {
         "activeBackground": "#2C2C3B",
         "inactiveBackground": "#2C2C3B"
-      }
+      },
+      "Advertiser.borderInsets": "8,12,8,12"
     },
     "StatusBar.borderColor": "#4E4C63",
     "ToolWindow": {
       "Button": {
         "selectedBackground": "#9649cc",
+        "selectedForeground": "#FFFFFF",
         "DragAndDrop" : {
           "stripeBackground" : "#2C2C3B",
           "buttonDropBackground": "#9649cc60",
