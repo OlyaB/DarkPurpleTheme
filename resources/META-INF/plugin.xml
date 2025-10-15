@@ -58,7 +58,8 @@
   <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="Dark Purple" path="/theme/DarkPurple.theme.json"/>
+    <themeProvider id="Dark Purple Classic" path="/theme/DarkPurpleClassic.theme.json"/>
+    <themeProvider id="Dark Purple New UI" path="/theme/DarkPurpleNewUI.theme.json"/>
   </extensions>
 
 </idea-plugin>
